@@ -1,0 +1,19 @@
+﻿  RGR.cpp
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(1480,21): warning C4101:  n: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(1573,14): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(1573,17): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7043,49): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7073,99): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7103,148): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7133,199): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7788,47): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7817,96): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7846,144): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7875,191): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7901,38): warning C4101:  b2: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(7901,34): warning C4101:  b1: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(8032,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(8039,22): warning C4101:  n2: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(8039,18): warning C4101:  n1: неиспользованная локальная переменная
+C:\Users\Zezerona\source\repos\RGR\RGR\RGR.cpp(1477): warning C4715:  check: значение возвращается не при всех путях выполнения
+  RGR.vcxproj -> C:\Users\Zezerona\source\repos\RGR\Debug\RGR.exe
